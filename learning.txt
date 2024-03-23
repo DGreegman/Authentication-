@@ -1,7 +1,0 @@
-if you want to prevent a field to appear when working on a schema model e.g password you will use the select property and set it to false
-</>
-password:{
-	type: String,
-	select: false
-}
-
